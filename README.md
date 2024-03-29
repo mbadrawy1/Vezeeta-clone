@@ -1,28 +1,25 @@
-<div dir="rtl">
-<h1> مسار تطوير تطبيق جوال باستخدام React Native </h1>
-<p>الشيفرة المصدرية الخاصة بمسار تطوير تطبيق جوال باستخدام React Native ضمن دورة "تطوير التطبيقات باستخدام JavaScript" المقدمة من أكاديمية حسوب
-
-</p>
-
-<div>
-<a href="https://academy.hsoub.com/learn/javascript-application-development/">دورة تطوير التطبيقات باستخدام JavaScript</a>
-</div>
-
-<h2> طريقة تشغيل الواجهات الخلفية </h2>
+<div dir="ltr">
+  
+<h1>React Native Mobile App Development</h1>
 <ul>
-  <li>نسخ المستودع <code>git clone </code></li>
-  <li>الانتقال إلى المجلد <code>cd server</code></li>
-  <li>تنزيل حزم npm من خلال الأمر <code>npm install</code></li>
-  <li>التعديل على معلومات الاتصال بقواعد البيانات في ملف <code>.env</code></li>
-  <li>تشغيل المشروع <code>npm run start</code></li>
+  Arabic version clone of Vezeeta with less features
+</ul>
+<h2>Running the Backend Interfaces</h2>
+<ul>
+  <li>Clone the repository <code>git clone </code></li>
+  <li>Go to the folder <code>cd server</code></li>
+  <li>Install npm packages using <code>npm install</code></li>
+  <li>Edit the database connection information in the <code>.env</code> file</li>
+  <li>Run the project <code>npm run start</code></li>
 </ul>
 
-<h2> طريقة تشغيل الواجهات الأمامية </h2>
+<h2>Running the Frontend Interfaces</h2>
 <ul>
-  <li>الانتقال إلى المجلد <code>cd client</code></li>
-  <li>تنزيل حزم npm من خلال الأمر <code>npm install</code></li>
-  <li>التعديل على معلومات الاتصال بخادم node.js في ملف <code>.env</code></li>
-  <li>تشغيل المشروع <code>npx expo start</code></li>
+<h2>Running the Frontend Interfaces</h2>
+<ul>
+  <li>Go to the folder <code>cd client</code></li>
+  <li>Install npm packages using <code>npm install</code></li>
+  <li>Edit the connection information to the Node.js server in the <code>.env</code> file</li>
+  <li>Run the project <code>npx expo start</code></li>
 </ul>
-</div>
-</div>
+
